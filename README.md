@@ -1,7 +1,7 @@
 - 👋 Hello Visitor, I’m @sameernasir101
-- 👀 I love Software Development
-- 🌱 I’m currently learning Python Programming.
-- 💞️ I am looking to get more knowledge and experience.
+- 👀 First love Software Development
+- 🌱 Currently learning Python Programming.
+- 💞️ Eager to learn new technologies and grow.
 - 📫 You can reach me at "msameernasir101@gmail.com"
 
 <!---
